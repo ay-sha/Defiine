@@ -18,6 +18,10 @@ Defiine is a modern and lightweight online dictionary web application designed t
 <li> <strong>Dictionary API: </strong> For fetching word data such as definitions, parts of speech, and examples. </li>
 </ul>
 
+<strong> Live Link : </strong> https://ay-sha.github.io/Defiine/
+
 # Screenshots
 ![dm](https://github.com/user-attachments/assets/d105323a-aecf-4388-a625-975d221c02d7)
+
+
 
