@@ -1,5 +1,5 @@
 # Defiine - A Simple Online Dictionary
-Defiine is a modern and lightweight online dictionary web application designed to provide users with easy access to word definitions, parts of speech, and example usages. The application uses the Dictionary API to fetch real-time data, making it a reliable resource for quick lookups.
+<strong> Defiine </strong> is a modern and lightweight online dictionary web application designed to provide users with easy access to word definitions, parts of speech, and example usages. The application uses the Dictionary API to fetch real-time data, making it a reliable resource for quick lookups.
 
 # Features
 <ul>
@@ -22,6 +22,7 @@ Defiine is a modern and lightweight online dictionary web application designed t
 
 # Screenshots
 ![dm](https://github.com/user-attachments/assets/d105323a-aecf-4388-a625-975d221c02d7)
+![dm3](https://github.com/user-attachments/assets/74fc6e25-d1d5-428a-a87c-f1e33e7d93f8)
 
 
 
