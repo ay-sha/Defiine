@@ -23,7 +23,3 @@
 # Screenshots
 ![dm](https://github.com/user-attachments/assets/d105323a-aecf-4388-a625-975d221c02d7)
 ![dm3](https://github.com/user-attachments/assets/74fc6e25-d1d5-428a-a87c-f1e33e7d93f8)
-
-
-
->>>>>>> c1363629c8ff45935230ca761c52cc24da20d275
