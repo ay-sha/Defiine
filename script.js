@@ -4,6 +4,8 @@ document.getElementById('wordInput').addEventListener('keydown', function (event
         searchWord();
     }
 });
+
+//search Button
 async function searchWord() {
      const word = document.getElementById('wordInput').value.trim();
 
