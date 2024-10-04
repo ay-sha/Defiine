@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Defiine
-=======
 # Defiine - A Simple Online Dictionary
 <strong> Defiine </strong> is a modern and lightweight online dictionary web application designed to provide users with easy access to word definitions, parts of speech, and example usages. The application uses the Dictionary API to fetch real-time data, making it a reliable resource for quick lookups.
 
