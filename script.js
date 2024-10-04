@@ -1,3 +1,9 @@
+document.getElementById('wordInput').addEventListener('keydown', function (event) {
+    if (event.key === "Enter") {
+        event.preventDefault();
+        searchWord();
+    }
+});
 async function searchWord() {
      const word = document.getElementById('wordInput').value.trim();
 
