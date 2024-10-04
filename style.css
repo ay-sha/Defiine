@@ -218,10 +218,6 @@ p {
     #p-tag {
         font-size: 18px;
     }
-
-    audio{
-        width: 80%;
-    }
 }
 
 @media (max-width: 320px) {
@@ -251,10 +247,6 @@ p {
     #p-tag {
         font-size: 18px;
     }
-
-    audio {
-        width: 80%;
-    }
 }
 
 @media (max-width: 480px) {
@@ -283,10 +275,6 @@ p {
          font-size: 20px;
      }
 
-     audio {
-         width: 80%;
-     }
-
 }
 @media (max-width: 600px) {
     .full {
@@ -311,10 +299,6 @@ p {
     #result {
         margin-top: 20px;
         padding: 10px;
-    }
-
-    audio {
-        width: 80%;
     }
 }
 
@@ -344,9 +328,5 @@ p {
 
      #p-tag {
          font-size: 20px;
-     }
-
-     audio {
-         width: 80%;
      }
 }

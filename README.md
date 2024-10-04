@@ -1,1 +1,32 @@
+<<<<<<< HEAD
 # Defiine
+=======
+# Defiine - A Simple Online Dictionary
+<strong> Defiine </strong> is a modern and lightweight online dictionary web application designed to provide users with easy access to word definitions, parts of speech, and example usages. The application uses the Dictionary API to fetch real-time data, making it a reliable resource for quick lookups.
+
+# Features
+<ul>
+<li> <strong>Word Definitions:</strong> Get accurate definitions for any word you search</li>
+<li> <strong> Parts of Speech: </strong> Learn about the grammatical classification of the word (noun, verb, adjective, etc.). </li>
+<li> <strong> Multiple Definitions: </strong> Some words have more than one meaning, and Defiine presents all possible definitions based on the part of speech. </li>
+<li> <strong> Example Sentences: </strong> Provides example sentences to understand word usage in context.</li>
+<li> <strong> Mobile-Friendly Design: </strong> Fully responsive design, works well on mobile phones, tablets, and desktops.</li>
+</ul>
+
+# Technologies Used
+<ul>
+<li> <strong> HTML5:</strong> For the structure of the webpage. </li>
+<li> <strong>CSS3: </strong> For styling and responsive layouts. </li>
+<li> <strong>JavaScript: </strong> For the interactive features and API integration. </li>
+<li> <strong>Dictionary API: </strong> For fetching word data such as definitions, parts of speech, and examples. </li>
+</ul>
+
+<strong> Live Link : </strong> https://ay-sha.github.io/Defiine/
+
+# Screenshots
+![dm](https://github.com/user-attachments/assets/d105323a-aecf-4388-a625-975d221c02d7)
+![dm3](https://github.com/user-attachments/assets/74fc6e25-d1d5-428a-a87c-f1e33e7d93f8)
+
+
+
+>>>>>>> c1363629c8ff45935230ca761c52cc24da20d275
